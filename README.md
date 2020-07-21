@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 ----
 ### Get in touch/chat/know more about me
-<a href="mailto:dhawalkapil@gmail.com"><img src="https://img.icons8.com/material-outlined/24/000000/composing-mail.png"/>
-<a href="https://twitter.com/dkapil"><img src="https://img.icons8.com/fluent/24/000000/twitter.png" alt="Follow Dhawal Kapil on Twitter">
-<a href="https://www.linkedin.com/in/dhawalkapil/"><img src="https://img.icons8.com/color/24/000000/linkedin.png"/>
-<a href="https://stackoverflow.com/users/2179336/dhawal-kapil"><img src="https://img.icons8.com/color/24/000000/stackoverflow.png" alt="profile for Dhawal Kapil at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Dhawal Kapil at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+<a href="mailto:dhawalkapil@gmail.com"><img src="https://img.icons8.com/material-outlined/24/000000/composing-mail.png" alt="Mail Dhawal Kapil"/></a>
+<a href="https://twitter.com/dkapil"><img src="https://img.icons8.com/fluent/24/000000/twitter.png" alt="Follow Dhawal Kapil on Twitter"></a>
+<a href="https://www.linkedin.com/in/dhawalkapil/"><img src="https://img.icons8.com/color/24/000000/linkedin.png" alt="Dhawal Kapil on Linkedin"/></a>
+<a href="https://stackoverflow.com/users/2179336/dhawal-kapil"><img src="https://img.icons8.com/color/24/000000/stackoverflow.png" alt="Dhawal Kapil at Stack Overflow"></a>

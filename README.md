@@ -8,7 +8,7 @@ I try to contribute to Open Source projects and I am trying to give more and mor
 I believe in Clean Code, Refactoring, Testing and related methodologies that makes code sustainable and maintainable.
 
 - 🔭 Working on a new Spring OAuth2 Course in collaboration with [Baeldung](https://courses.baeldung.com/)
-- 🌱 Learning more about Micro Services and how they work
+- 🌱 Learning more about Micro Services architecture and best practices
 
 ----
 ### Get in touch/chat/know more about me

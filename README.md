@@ -1,4 +1,4 @@
-### Dhawal Kapil (not a 10x Developer)
+### Dhawal Kapil
 ----
 #### Hi/Hello/Namastey 👋
 
